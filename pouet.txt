@@ -5,3 +5,4 @@ toto:
 pouet:
   badaboum:
     - panpan: 'argh'
+    - toctoc: 'quicest'
