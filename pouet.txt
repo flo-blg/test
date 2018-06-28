@@ -4,5 +4,6 @@ toto:
   - tutu: 0
 pouet:
   badaboum:
+    - tactac: 'badaboum'
     - panpan: 'argh'
     - toctoc: 'quicest'
