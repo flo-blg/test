@@ -1,6 +1,7 @@
 toto:
   - tata: 1
   - titi: 1
+  - tutu: 0
 pouet:
   badaboum:
     - tactac: 'badaboum'
