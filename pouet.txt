@@ -3,4 +3,5 @@ toto:
   - titi: 1
 pouet:
   badaboum:
+    - tactac: 'badaboum'
     - panpan: 'argh'
