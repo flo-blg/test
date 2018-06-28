@@ -1,0 +1,6 @@
+toto:
+  - tata: 1
+  - titi: 1
+pouet:
+  badaboum:
+    - panpan: 'argh'
